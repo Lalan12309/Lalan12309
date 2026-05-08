@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lalan12309/Lalan12309/main/Devops.png" alt="Banner" width="100%" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Lalan Kumar Yadav</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1500&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Enthusiast" alt="Typing SVG" />
